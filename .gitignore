@@ -31,3 +31,8 @@ logs/
 # Large RetailRocket files not used by this notebook
 /data/ecommerce-dataset.zip
 /data/item_properties_part*.csv
+
+2601_UTS-GSD.pdf
+data/category_tree.csv
+driver_neo4j.py
+test_connection.py
